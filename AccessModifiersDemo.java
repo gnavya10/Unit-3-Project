@@ -1,5 +1,5 @@
 package demo;
-
+// sample
 public class AccessModifiersDemo {
     public String publicVar = "Public Variable";
     private String privateVar = "Private Variable";
